@@ -20,8 +20,12 @@ General stack and what each technology does.
 ## Javascript - language 
 ## Node- enviroment 
   javascript runtime used to execute code outside of the browser
+  node take http requests and sends to express 
+  handels requests 
+
 ## express.js - framework built on node; to build application
-  library that runs in the node runtime. has helpers to make dealing with HTTP traffic easier   
+  library that runs in the node runtime. has helpers to make dealing with HTTP traffic easier  
+##  
 
 - To create a new project
   - `$ npm init` 
