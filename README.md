@@ -17,10 +17,13 @@ General stack and what each technology does.
   - O Auth: for authenticating with google 
   - Stripe: for staking credit cards 
 
-Javascript - language 
-Node- enviroment 
-express.js - framework built on node; to build application  
+## Javascript - language 
+## Node- enviroment 
+  javascript runtime used to execute code outside of the browser
+## express.js - framework built on node; to build application
+  library that runs in the node runtime. has helpers to make dealing with HTTP traffic easier   
 
 - To create a new project
-  - $ npm init 
+  - `$ npm init` 
+  - `$ npm install --save express`
 
