@@ -15,5 +15,12 @@ General stack and what each technology does.
 
 - Extra
   - O Auth: for authenticating with google 
-  - Stripe: for staking credit cards
+  - Stripe: for staking credit cards 
+
+Javascript - language 
+Node- enviroment 
+express.js - framework built on node; to build application  
+
+- To create a new project
+  - $ npm init 
 
